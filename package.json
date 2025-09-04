@@ -1,7 +1,7 @@
 {
-  "name": "sh3nnmine",
-  "version": "6.7.4",
-  "description": "WhatsApp API",
+  "name": "Whatsapp-Api",
+  "version": "1.0.0",
+  "description": "Y",
   "keywords": [
     "whatsapp",
     "js-whatsapp",
@@ -12,9 +12,9 @@
     "automation",
     "multi-device"
   ],
-  "homepage": "https://github.com/WhiskeySockets/Baileys",
+  "homepage": "https://www.npmjs.com/package/@shennmine/baileys",
   "repository": {
-    "url": "git@github.com:WhiskeySockets/Baileys.git"
+    "url": "https://www.npmjs.com/package/@shennmine/baileys"
   },
   "license": "MIT",
   "author": "Adhiraj Singh",
@@ -52,7 +52,7 @@
     "chalk": "^4.1.2",
     "futoin-hkdf": "^1.5.1",
     "libphonenumber-js": "^1.10.20",
-    "libsignal": "npm:@shennmine/libsignal-node",
+    "libsignal": "github:tenka-san/libsignal-node",
     "music-metadata": "^7.12.3",
     "node-cache": "^5.1.2",
     "pino": "^7.0.0",
